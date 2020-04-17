@@ -5,4 +5,4 @@
 1.5倍滤波效果
 ![](./docs/matlab_l1.png)
 10倍滤波效果
-![](./docs/matlab_l1_10.pg)
+![](./docs/matlab_l1_10.png)
